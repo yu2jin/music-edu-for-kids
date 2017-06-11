@@ -1,0 +1,17 @@
+﻿<Page x:Class="Edu_Piano_9012.UI.Sub.Quiz.quizPage1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      Title="quizPage1"
+   Width="1600" Height="1000"
+	WindowWidth="1600" WindowHeight="1000">
+    <Grid x:Name="LayoutRoot" Width="1600" Height="1000">
+        <Label Content="악기를 선택해 주세요" Height="94.5" Canvas.Left="247.5" Canvas.Top="517.5" Width="717" Margin="234.037,497.526,248.962,207.973"/>
+        <Button x:Name="btn_InsSoundQuiz" Content="악기소리퀴즈" Margin="275.5,268,942.5,438"/>
+        <Button Content="Button" Margin="657.5,268,562,438"/>
+        <Button Content="Button" Margin="1038,268,212.5,438"/>
+        <Button x:Name="btn_back" Content="뒤로가기" Margin="1156,787,94.5,84.5"/>
+    </Grid>
+</Page>

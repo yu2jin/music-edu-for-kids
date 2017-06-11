@@ -1,0 +1,698 @@
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\bar.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\line.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\position.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\time.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\bar.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\line.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\position.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Debug\UI\Sub\time.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\bar.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\line.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\position.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\time.baml
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\bar.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\line.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\position.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\time.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\유진\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\bar.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\line.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\position.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\time.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\bar.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\line.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\position.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\UI\Sub\time.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012 (2) (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\InsPlayPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\InsPlayPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\InsSoundPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\quizPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\InsSoundPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\quizPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\App.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\Position.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0827 (2)\Edu-Piano_9012\obj\Debug\UI\Sub\Position.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\InsPlayPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\InsSoundPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Position.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\quizPage1.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\song.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\App.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\InsPlayPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\InsSoundPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Position.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\quizPage1.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\song.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Bar.baml
+C:\Users\mun\Documents\카카오톡 받은 파일\Edu-Piano_9012-0830\Edu-Piano_9012\obj\Debug\UI\Sub\Bar.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\App.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\bin\Debug\NAudio.dll
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\bin\Debug\NAudio.xml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0830-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\bin\Debug\NAudio.dll
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\bin\Debug\NAudio.xml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\App.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\App.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0905\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+C:\Users\mun\Documents\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+C:\Users\mun\Documents\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\App.baml
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\App.g.cs
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\bin\Debug\NAudio.dll
+D:\Edu-Piano_9012-0908\Edu-Piano_9012\bin\Debug\NAudio.xml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\NAudio.dll
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\NAudio.xml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\App.baml
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\App.g.cs
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+D:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\NAudio.dll
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\bin\Debug\NAudio.xml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\App.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\App.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.baml
+E:\Edu-Piano_9012-0909-1\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\bin\Debug\NAudio.dll
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\bin\Debug\NAudio.xml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\App.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\App.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.g.cs
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.baml
+E:\Edu-Piano_9012-09011\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.dll
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.xml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.baml
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.g.cs
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+E:\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.dll
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Microsoft.DirectX.DirectSound.xml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.xml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\LongIn\Login.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.g.cs
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.lref
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\LongIn\Login.baml
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+E:\졸작_Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.exe
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Edu-Piano_9012.pdb
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.dll
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\Microsoft.DirectX.DirectSound.xml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\bin\Debug\NAudio.xml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Simple Styles.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Main\Window1.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\GuitarSong.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsPlayPage1.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\InsSoundPage1.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\Percussion.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\StringInstrument.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentSound\windInstrument.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\LongIn\Login.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Main.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ChildrenSong.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudyPage1.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\MusicTale.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\MusicStudy\ScoreTheory.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\quizPage1.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\SelectDeviceForm.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\InstrumentPlay\song.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\App.g.cs
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.cache
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012_MarkupCompile.lref
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\UI\Sub\LongIn\Login.baml
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.g.resources
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu_Piano_9012.Properties.Resources.resources
+E:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.csproj.GenerateResource.Cache
+D:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.exe
+D:\한국기술교육대학교\졸작\Edu-Piano_9012-09012\Edu-Piano_9012\obj\Debug\Edu-Piano_9012.pdb

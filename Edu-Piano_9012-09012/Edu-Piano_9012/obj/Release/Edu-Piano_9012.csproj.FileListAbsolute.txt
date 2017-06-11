@@ -1,0 +1,44 @@
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\bin\Release\Edu-Piano_9012.exe
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\bin\Release\Edu-Piano_9012.pdb
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\ResolveAssemblyReference.cache
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Window1.baml
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Window1.g.cs
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\App.g.cs
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu-Piano_9012.g.resources
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu-Piano_9012.exe
+C:\Users\yun\AppData\Local\Temporary Projects\Edu-Piano_9012\obj\Release\Edu-Piano_9012.pdb
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.exe
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.pdb
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\bin\Release\Edu-Piano_9012.exe
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\bin\Release\Edu-Piano_9012.pdb
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Main\Window1.baml
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Main\Window1.g.cs
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\App.g.cs
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.g.resources
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.csproj.GenerateResource.Cache
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\bin\Release\SoundAnalysis.dll
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\bin\Release\SoundCapture.dll
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Sub\SelectDeviceForm.baml
+C:\Users\yun\Desktop\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.exe
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.pdb
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Release\Edu-Piano_9012.exe
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Release\Edu-Piano_9012.pdb
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Release\SoundAnalysis.dll
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\bin\Release\SoundCapture.dll
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.csprojResolveAssemblyReference.cache
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Main\Window1.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Sub\SelectDeviceForm.baml
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Main\Window1.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\UI\Sub\SelectDeviceForm.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\App.g.cs
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012_MarkupCompile.cache
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.g.resources
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu_Piano_9012.Properties.Resources.resources
+C:\Users\mun\Downloads\Edu-Piano_9012\Edu-Piano_9012\obj\Release\Edu-Piano_9012.csproj.GenerateResource.Cache

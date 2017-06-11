@@ -1,0 +1,15 @@
+﻿<Window x:Class="Edu_Piano_9012.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+    Title="Window1" Height="1000" Width="1600" ResizeMode="NoResize" WindowStyle="None" WindowState="Maximized" >
+
+
+    <Grid Width="1600" Height="1000">
+        <Image Stretch="Fill" Source="/Edu-Piano_9012;component/img/main_back.png" Margin="-378,0,-483,0" />
+        <Image Stretch="Fill" Source="/Edu-Piano_9012;component/img/main.png" />
+        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+        <Border BorderBrush="Black" BorderThickness="3"/>
+    </Grid>
+
+</Window>

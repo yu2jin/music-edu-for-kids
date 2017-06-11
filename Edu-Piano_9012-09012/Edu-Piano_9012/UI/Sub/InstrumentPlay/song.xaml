@@ -1,0 +1,324 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:Themes="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero" x:Class="Edu_Piano_9012.UI.Sub.song" 
+      mc:Ignorable="d" 
+      d:DesignHeight="1000" d:DesignWidth="1600"
+	Title="song">
+    <Page.Resources>
+        <Style x:Key="ButtonFocusVisual">
+        	<Setter Property="Control.Template">
+        		<Setter.Value>
+        			<ControlTemplate>
+        				<Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="Black" StrokeThickness="1" StrokeDashArray="1 2"/>
+        			</ControlTemplate>
+        		</Setter.Value>
+        	</Setter>
+        </Style>
+        <LinearGradientBrush x:Key="ButtonNormalBackground" EndPoint="0,1" StartPoint="0,0">
+        	<GradientStop Color="#F3F3F3" Offset="0"/>
+        	<GradientStop Color="#EBEBEB" Offset="0.5"/>
+        	<GradientStop Color="#DDDDDD" Offset="0.5"/>
+        	<GradientStop Color="#CDCDCD" Offset="1"/>
+        </LinearGradientBrush>
+        <SolidColorBrush x:Key="ButtonNormalBorder" Color="#FF707070"/>
+        <Style x:Key="ButtonStyle_back_circle" TargetType="{x:Type Button}">
+        	<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+        	<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+        	<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+        	<Setter Property="BorderThickness" Value="1"/>
+        	<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+        	<Setter Property="HorizontalContentAlignment" Value="Center"/>
+        	<Setter Property="VerticalContentAlignment" Value="Center"/>
+        	<Setter Property="Padding" Value="1"/>
+        	<Setter Property="Template">
+        		<Setter.Value>
+        			<ControlTemplate TargetType="{x:Type Button}">
+        				<Grid x:Name="grid" HorizontalAlignment="Left" Height="85" VerticalAlignment="Top" Width="177" Margin="-27,30,0,0">
+        					<Grid.Background>
+        						<ImageBrush ImageSource="/Edu-Piano_9012;component/img/back_page.PNG"/>
+        					</Grid.Background>
+        				</Grid>
+        				<ControlTemplate.Triggers>
+        					<Trigger Property="IsMouseOver" Value="True">
+        						<Setter Property="Width" TargetName="grid" Value="196.5"/>
+        						<Setter Property="Height" TargetName="grid" Value="120"/>
+        						<Setter Property="Margin" TargetName="grid" Value="-37.5,10.5,-9,0"/>
+        					</Trigger>
+        					<Trigger Property="IsKeyboardFocused" Value="true"/>
+        					<Trigger Property="ToggleButton.IsChecked" Value="true"/>
+        					<Trigger Property="IsEnabled" Value="false">
+        						<Setter Property="Foreground" Value="#ADADAD"/>
+        					</Trigger>
+        				</ControlTemplate.Triggers>
+        			</ControlTemplate>
+        		</Setter.Value>
+        	</Setter>
+        </Style>
+        <Style x:Key="ButtonStyle_home" TargetType="{x:Type Button}">
+        	<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+        	<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+        	<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+        	<Setter Property="BorderThickness" Value="1"/>
+        	<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+        	<Setter Property="HorizontalContentAlignment" Value="Center"/>
+        	<Setter Property="VerticalContentAlignment" Value="Center"/>
+        	<Setter Property="Padding" Value="1"/>
+        	<Setter Property="Template">
+        		<Setter.Value>
+        			<ControlTemplate TargetType="{x:Type Button}">
+        				<Grid x:Name="grid" HorizontalAlignment="Left" Height="85" VerticalAlignment="Top" Width="177" Margin="-18,39,0,0">
+        					<Grid.Background>
+        						<ImageBrush ImageSource="/Edu-Piano_9012;component/img/goHome.jpg"/>
+        					</Grid.Background>
+        				</Grid>
+        				<ControlTemplate.Triggers>
+        					<Trigger Property="IsMouseOver" Value="True">
+        						<Setter Property="Width" TargetName="grid" Value="240"/>
+        						<Setter Property="Height" TargetName="grid" Value="119.5"/>
+        						<Setter Property="Margin" TargetName="grid" Value="-54,21,-36,0"/>
+        					</Trigger>
+        					<Trigger Property="IsKeyboardFocused" Value="true"/>
+        					<Trigger Property="ToggleButton.IsChecked" Value="true"/>
+        					<Trigger Property="IsEnabled" Value="false">
+        						<Setter Property="Foreground" Value="#ADADAD"/>
+        					</Trigger>
+        				</ControlTemplate.Triggers>
+        			</ControlTemplate>
+        		</Setter.Value>
+        	</Setter>
+        </Style>
+    	<Style x:Key="ButtonStyle1" TargetType="{x:Type Button}">
+    		<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+    		<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+    		<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+    		<Setter Property="BorderThickness" Value="1"/>
+    		<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+    		<Setter Property="HorizontalContentAlignment" Value="Center"/>
+    		<Setter Property="VerticalContentAlignment" Value="Center"/>
+    		<Setter Property="Padding" Value="1"/>
+    		<Setter Property="Template">
+    			<Setter.Value>
+    				<ControlTemplate TargetType="{x:Type Button}">
+    					<Grid x:Name="grid" HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Margin="0,0,-32,0">
+    						<Rectangle x:Name="rectangle" HorizontalAlignment="Left" Height="63.67" Stroke="Black" VerticalAlignment="Top" Width="157.566" RadiusY="10.833" RadiusX="10.833">
+    							<Rectangle.Fill>
+    								<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    									<GradientStop Color="#FF999191" Offset="0"/>
+    									<GradientStop Color="#FFDDDDDD" Offset="1"/>
+    								</LinearGradientBrush>
+    							</Rectangle.Fill>
+    						</Rectangle>
+    						<Image x:Name="image" HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Source="/Edu-Piano_9012;component/img/자리연습1.jpg"/>
+    					</Grid>
+    					<ControlTemplate.Triggers>
+    						<Trigger Property="IsFocused" Value="True">
+    							<Setter Property="Source" TargetName="image" Value="/Edu-Piano_9012;component/img/자리연습2.jpg"/>
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    							<Setter Property="Background">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+    										<GradientStop Color="#FFF3F3F3" Offset="0"/>
+    										<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+    										<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+    										<GradientStop Color="#FFDDDDDD" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    						</Trigger>
+    						<Trigger Property="IsMouseOver" Value="True">
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    							<Setter Property="Background">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+    										<GradientStop Color="#FFF3F3F3" Offset="0"/>
+    										<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+    										<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+    										<GradientStop Color="#FFDDDDDD" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    						</Trigger>
+    						<Trigger Property="IsCancel" Value="True"/>
+    						<Trigger Property="IsKeyboardFocused" Value="true"/>
+    						<Trigger Property="ToggleButton.IsChecked" Value="true">
+    							<Setter Property="Source" TargetName="image" Value="/Edu-Piano_9012;component/img/자리연습1.jpg"/>
+    						</Trigger>
+    						<Trigger Property="IsEnabled" Value="false">
+    							<Setter Property="Foreground" Value="#ADADAD"/>
+    						</Trigger>
+    					</ControlTemplate.Triggers>
+    				</ControlTemplate>
+    			</Setter.Value>
+    		</Setter>
+    	</Style>
+    	<Style x:Key="ButtonStyle2" TargetType="{x:Type Button}">
+    		<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+    		<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+    		<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+    		<Setter Property="BorderThickness" Value="1"/>
+    		<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+    		<Setter Property="HorizontalContentAlignment" Value="Center"/>
+    		<Setter Property="VerticalContentAlignment" Value="Center"/>
+    		<Setter Property="Padding" Value="1"/>
+    		<Setter Property="Template">
+    			<Setter.Value>
+    				<ControlTemplate TargetType="{x:Type Button}">
+    					<Grid HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Margin="0,0,-32,0">
+    						<Rectangle x:Name="rectangle" HorizontalAlignment="Left" Height="63.67" Stroke="Black" VerticalAlignment="Top" Width="157.566" RadiusY="10.833" RadiusX="10.833">
+    							<Rectangle.Fill>
+    								<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    									<GradientStop Color="#FF999191" Offset="0"/>
+    									<GradientStop Color="#FFDDDDDD" Offset="1"/>
+    								</LinearGradientBrush>
+    							</Rectangle.Fill>
+    						</Rectangle>
+    						<Image x:Name="image" HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Source="/Edu-Piano_9012;component/img/한줄연습1.jpg"/>
+    					</Grid>
+    					<ControlTemplate.Triggers>
+    						<Trigger Property="IsMouseOver" Value="True">
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    							<Setter Property="Background">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+    										<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+    										<GradientStop Color="#FFF3F3F3" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    						</Trigger>
+    						<Trigger Property="IsFocused" Value="True">
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    							<Setter Property="Source" TargetName="image" Value="/Edu-Piano_9012;component/img/한줄연습2.jpg"/>
+    						</Trigger>
+    						<Trigger Property="IsKeyboardFocused" Value="true"/>
+    						<Trigger Property="ToggleButton.IsChecked" Value="true"/>
+    						<Trigger Property="IsEnabled" Value="false">
+    							<Setter Property="Foreground" Value="#ADADAD"/>
+    						</Trigger>
+    					</ControlTemplate.Triggers>
+    				</ControlTemplate>
+    			</Setter.Value>
+    		</Setter>
+    	</Style>
+    	<Style x:Key="ButtonStyle3" TargetType="{x:Type Button}">
+    		<Setter Property="FocusVisualStyle" Value="{StaticResource ButtonFocusVisual}"/>
+    		<Setter Property="Background" Value="{StaticResource ButtonNormalBackground}"/>
+    		<Setter Property="BorderBrush" Value="{StaticResource ButtonNormalBorder}"/>
+    		<Setter Property="BorderThickness" Value="1"/>
+    		<Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+    		<Setter Property="HorizontalContentAlignment" Value="Center"/>
+    		<Setter Property="VerticalContentAlignment" Value="Center"/>
+    		<Setter Property="Padding" Value="1"/>
+    		<Setter Property="Template">
+    			<Setter.Value>
+    				<ControlTemplate TargetType="{x:Type Button}">
+    					<Grid HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Margin="0,0,-32,0">
+    						<Rectangle x:Name="rectangle" HorizontalAlignment="Left" Height="63.67" Stroke="Black" VerticalAlignment="Top" Width="157.566" RadiusY="10.833" RadiusX="10.833">
+    							<Rectangle.Fill>
+    								<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    									<GradientStop Color="#FF999191" Offset="0"/>
+    									<GradientStop Color="#FFDDDDDD" Offset="1"/>
+    								</LinearGradientBrush>
+    							</Rectangle.Fill>
+    						</Rectangle>
+    						<Image x:Name="___이름_없음_" HorizontalAlignment="Left" Height="63.67" VerticalAlignment="Top" Width="157.566" Source="/Edu-Piano_9012;component/img/한곡연습1.jpg"/>
+    					</Grid>
+    					<ControlTemplate.Triggers>
+    						<Trigger Property="IsFocused" Value="True">
+    							<Setter Property="Source" TargetName="___이름_없음_" Value="/Edu-Piano_9012;component/img/한곡연습2.jpg"/>
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="0.991"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    						</Trigger>
+    						<Trigger Property="IsMouseOver" Value="True">
+    							<Setter Property="Fill" TargetName="rectangle">
+    								<Setter.Value>
+    									<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+    										<GradientStop Color="#FFDDDDDD" Offset="0"/>
+    										<GradientStop Color="#FF979797" Offset="1"/>
+    									</LinearGradientBrush>
+    								</Setter.Value>
+    							</Setter>
+    						</Trigger>
+    						<Trigger Property="IsKeyboardFocused" Value="true"/>
+    						<Trigger Property="ToggleButton.IsChecked" Value="true"/>
+    						<Trigger Property="IsEnabled" Value="false">
+    							<Setter Property="Foreground" Value="#ADADAD"/>
+    						</Trigger>
+    					</ControlTemplate.Triggers>
+    				</ControlTemplate>
+    			</Setter.Value>
+    		</Setter>
+    	</Style>
+    </Page.Resources>
+	<Grid x:Name="LayoutRoot">
+		<Image Source="/Edu-Piano_9012;component/img/main_gra.PNG" />
+		<Grid Margin="37.577,66.321,54,179">
+			<Button x:Name="btn_Postion" Content="자리연습" HorizontalAlignment="Left" Height="77.67" VerticalAlignment="Top" Width="125.566" Style="{DynamicResource ButtonStyle1}"/>
+			<Button x:Name="btn_LinePractice" Content="한줄연습" HorizontalAlignment="Left" Height="77.67" Margin="0,85.17,0,0" VerticalAlignment="Top" Width="125.566" Style="{DynamicResource ButtonStyle2}" RenderTransformOrigin="0.545,-0.238"/>
+			<Button x:Name="btn_SongPractice" Content="한곡연습" HorizontalAlignment="Left" Height="77.67" Margin="0,167.34,0,0" VerticalAlignment="Top" Width="125.566" Style="{DynamicResource ButtonStyle3}"/>
+			<Grid Margin="204.423,0.679,0,0">
+
+				<Rectangle RadiusY="33.5" RadiusX="33.5">
+					<Rectangle.Fill>
+						<LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+							<GradientStop Color="#FF616161" Offset="0"/>
+							<GradientStop Color="#FFFFF8F8" Offset="1"/>
+						</LinearGradientBrush>
+					</Rectangle.Fill>
+				</Rectangle>
+
+
+				<Frame x:Name="songFrame" Content="" HorizontalAlignment="Left" Height="700" Margin="54,22.33,0,0" VerticalAlignment="Top" Width="1200"/>
+
+
+			</Grid>
+		</Grid>
+		<Grid Margin="1199.219,821,54,24">
+			<Button x:Name="btn_goMain" Content="처음으로" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="10,-5,0,0" Height="150" FontSize="30" Style="{DynamicResource ButtonStyle_home}"/>
+			<Button x:Name="btn_songBack" Content="뒤로" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="196.781,5,0,0" Height="150" FontSize="30" Style="{DynamicResource ButtonStyle_back_circle}" SnapsToDevicePixels="True"/>
+
+
+		</Grid>
+
+
+	</Grid>
+</Page>

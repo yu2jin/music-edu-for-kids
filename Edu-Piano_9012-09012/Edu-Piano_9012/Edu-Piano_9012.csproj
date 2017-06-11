@@ -1,0 +1,548 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65891A0B-343B-4252-B1A5-59AB567D5041}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Edu_Piano_9012</RootNamespace>
+    <AssemblyName>Edu-Piano_9012</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <ExpressionBlendVersion>12.0.41002.1</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.DirectX.DirectSound, Version=1.0.2902.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.DirectX.DirectSound.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio">
+      <HintPath>..\packages\NAudio.1.7.3\lib\net35\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="SoundAnalysis">
+      <HintPath>bin\Debug\SoundAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="SoundCapture">
+      <HintPath>bin\Debug\SoundCapture.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="UI\Sub\InstrumentPlay\GuitarSong.xaml.cs">
+      <DependentUpon>GuitarSong.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsPlayPage1.xaml.cs">
+      <DependentUpon>InsPlayPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.xaml.cs">
+      <DependentUpon>CodePractice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.xaml.cs">
+      <DependentUpon>InsPlayStartPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.xaml.cs">
+      <DependentUpon>LinePractice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.xaml.cs">
+      <DependentUpon>SelectSong.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.xaml.cs">
+      <DependentUpon>SongPractice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentSound\InsSoundPage1.xaml.cs">
+      <DependentUpon>InsSoundPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentSound\Percussion.xaml.cs">
+      <DependentUpon>Percussion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentSound\StringInstrument.xaml.cs">
+      <DependentUpon>StringInstrument.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentSound\windInstrument.xaml.cs">
+      <DependentUpon>windInstrument.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\LongIn\Login.xaml.cs">
+      <DependentUpon>Login.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\Main.xaml.cs">
+      <DependentUpon>Main.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\ChildrenSong.xaml.cs">
+      <DependentUpon>ChildrenSong.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicStudyPage1.xaml.cs">
+      <DependentUpon>MusicStudyPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.xaml.cs">
+      <DependentUpon>ChildrenSong_sub.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.xaml.cs">
+      <DependentUpon>MusicTale_Control.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.xaml.cs">
+      <DependentUpon>MusicTale_Sub.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.xaml.cs">
+      <DependentUpon>ScoreTheory_sub.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\MusicTale.xaml.cs">
+      <DependentUpon>MusicTale.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.xaml.cs">
+      <DependentUpon>Position.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\MusicStudy\ScoreTheory.xaml.cs">
+      <DependentUpon>ScoreTheory.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\Quiz\quizPage1.xaml.cs">
+      <DependentUpon>quizPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.xaml.cs">
+      <DependentUpon>InsSoundQuiz.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\SelectDeviceForm.xaml.cs">
+      <DependentUpon>SelectDeviceForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Sub\InstrumentPlay\song.xaml.cs">
+      <DependentUpon>song.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Simple Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Main\Window1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Engine\ComplexNumber.cs" />
+    <Compile Include="Engine\FftAlgorithm.cs" />
+    <Compile Include="Engine\FrequencyInfoSource.cs" />
+    <Compile Include="Engine\FrequencyUtils.cs" />
+    <Compile Include="Engine\SoundCaptureBase.cs" />
+    <Compile Include="Engine\SoundCaptureDevice.cs" />
+    <Compile Include="Engine\SoundCaptureException.cs" />
+    <Compile Include="Engine\SoundFrequencyInfoSource.cs" />
+    <Compile Include="UI\Main\Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="UI\Sub\InstrumentPlay\GuitarSong.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsPlayPage1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\CodePractice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\InsPlayStartPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\LinePractice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\SelectSong.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\SongPractice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentSound\InsSoundPage1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\InstrumentSound\Percussion.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\InstrumentSound\StringInstrument.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\InstrumentSound\windInstrument.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\LongIn\Login.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\Main.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\ChildrenSong.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicStudyPage1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicStudy_sub\ChildrenSong_sub.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Control.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicStudy_sub\MusicTale_Sub.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicStudy_sub\ScoreTheory_sub.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\MusicTale.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\InsturmentPlay_sub\Position.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\MusicStudy\ScoreTheory.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Sub\Quiz\quizPage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\Quiz\Quiz_Sub\InsSoundQuiz.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\SelectDeviceForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Sub\InstrumentPlay\song.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="img\Untitled-1.psd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="back.png" />
+    <Resource Include="hand.png" />
+    <Resource Include="Image1.png" />
+    <Resource Include="Image2.png" />
+    <Resource Include="piano.png" />
+    <Resource Include="pororo1.jpg" />
+    <Resource Include="pororo2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UI\Sub\blank.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="backGround.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="piano00.PNG" />
+    <Resource Include="piano01.PNG" />
+    <Resource Include="piano02.PNG" />
+    <Resource Include="piano03.PNG" />
+    <Resource Include="piano04.PNG" />
+    <Resource Include="piano05.jpg" />
+    <Resource Include="piano06.PNG" />
+    <Resource Include="piano07.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="기타코드\도.png" />
+    <Resource Include="기타코드\라.png" />
+    <Resource Include="기타코드\레.png" />
+    <Resource Include="기타코드\미.png" />
+    <Resource Include="기타코드\솔.png" />
+    <Resource Include="기타코드\시.png" />
+    <Resource Include="기타코드\파.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="높은도.png" />
+    <Resource Include="도.png" />
+    <Resource Include="라.png" />
+    <Resource Include="레.png" />
+    <Resource Include="미.png" />
+    <Resource Include="솔.png" />
+    <Resource Include="시.png" />
+    <Resource Include="파.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="처음.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="교육자료\01. 교육자료_손가락번호.png" />
+    <Resource Include="교육자료\02. 교육자료_음쉼표.png" />
+    <Resource Include="교육자료\03. 교육자료_자리표.png" />
+    <Resource Include="교육자료\04. 교육자료_높은음자리 음계.png" />
+    <Resource Include="교육자료\05. 교육자료_낮은음자리 음계.png" />
+    <Resource Include="교육자료\06. 교육자료_악보기본.png" />
+    <Resource Include="교육자료\07. 교육자료_온음반음.png" />
+    <Resource Include="교육자료\08. 교육자료_셈여림표.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="img\back.png" />
+    <Resource Include="img\back_page.PNG" />
+    <Resource Include="img\blank.png" />
+    <Resource Include="img\breathins.PNG" />
+    <Resource Include="img\breathins_ex.PNG" />
+    <Resource Include="img\butterfly.png" />
+    <Resource Include="img\circl_back.PNG" />
+    <Resource Include="img\exam_gcode.PNG" />
+    <Resource Include="img\exam_gcode2.PNG" />
+    <Resource Include="img\exam_gposition.PNG" />
+    <Resource Include="img\exam_gposition2.PNG" />
+    <Resource Include="img\explan.PNG" />
+    <Resource Include="img\explan_mic.png" />
+    <Resource Include="img\explan_play.png" />
+    <Resource Include="img\explan_qize.png" />
+    <Resource Include="img\explan_sel.png" />
+    <Resource Include="img\explan_study.png" />
+    <Resource Include="img\front.png" />
+    <Resource Include="img\goHome.jpg" />
+    <Resource Include="img\guitar.PNG" />
+    <Resource Include="img\hitins.PNG" />
+    <Resource Include="img\hitins_ex.PNG" />
+    <Resource Include="img\home.png" />
+    <Resource Include="img\jjack.png" />
+    <Resource Include="img\lineins.PNG" />
+    <Resource Include="img\lineins_ex.PNG" />
+    <Resource Include="img\main.png" />
+    <Resource Include="img\main_back.png" />
+    <Resource Include="img\main_gra.PNG" />
+    <Resource Include="img\piano.PNG" />
+    <Resource Include="img\play.PNG" />
+    <Resource Include="img\qize.PNG" />
+    <Resource Include="img\question.png" />
+    <Resource Include="img\recorder.PNG" />
+    <Resource Include="img\same.PNG" />
+    <Resource Include="img\school.png" />
+    <Resource Include="img\song.PNG" />
+    <Resource Include="img\sound.PNG" />
+    <Resource Include="img\stop.PNG" />
+    <Resource Include="img\story.PNG" />
+    <Resource Include="img\story_open.PNG" />
+    <Resource Include="img\story_open2.png" />
+    <Resource Include="img\study_music.PNG" />
+    <Resource Include="img\theory.PNG" />
+    <Resource Include="img\title.PNG" />
+    <Resource Include="img\title_black.PNG" />
+    <Resource Include="img\volume_off.jpg" />
+    <Resource Include="img\volume_on.jpg" />
+    <Resource Include="img\가야금.PNG" />
+    <Resource Include="img\가야금1.PNG" />
+    <Resource Include="img\가야금2.PNG" />
+    <Resource Include="img\가야금3.PNG" />
+    <Resource Include="img\기타.png" />
+    <Resource Include="img\기타1.png" />
+    <Resource Include="img\기타2.png" />
+    <Resource Include="img\기타3.PNG" />
+    <Resource Include="img\꽹과리.png" />
+    <Resource Include="img\꽹과리1.png" />
+    <Resource Include="img\꽹과리2.png" />
+    <Resource Include="img\꽹과리3.PNG" />
+    <Resource Include="img\리코더.png" />
+    <Resource Include="img\리코더1.png" />
+    <Resource Include="img\리코더2.png" />
+    <Resource Include="img\리코더3.PNG" />
+    <Resource Include="img\마디연습1.jpg" />
+    <Resource Include="img\마디연습2.jpg" />
+    <Resource Include="img\바순1.png" />
+    <Resource Include="img\바순2.png" />
+    <Resource Include="img\바순3.PNG" />
+    <Resource Include="img\바이올린.png" />
+    <Resource Include="img\바이올린1.png" />
+    <Resource Include="img\바이올린2.PNG" />
+    <Resource Include="img\바이올린3.png" />
+    <Resource Include="img\비파.PNG" />
+    <Resource Include="img\비파1.PNG" />
+    <Resource Include="img\비파2.PNG" />
+    <Resource Include="img\비파3.PNG" />
+    <Resource Include="img\섹소폰.png" />
+    <Resource Include="img\섹소폰1.png" />
+    <Resource Include="img\섹소폰2.PNG" />
+    <Resource Include="img\섹소폰3.PNG" />
+    <Resource Include="img\소고.PNG" />
+    <Resource Include="img\소고1.PNG" />
+    <Resource Include="img\소고2.PNG" />
+    <Resource Include="img\소고3.PNG" />
+    <Resource Include="img\실로폰.png" />
+    <Resource Include="img\실로폰1.png" />
+    <Resource Include="img\실로폰2.PNG" />
+    <Resource Include="img\실로폰3.png" />
+    <Resource Include="img\심벌즈1.png" />
+    <Resource Include="img\심벌즈2.png" />
+    <Resource Include="img\심벌즈3.PNG" />
+    <Resource Include="img\아쟁1.PNG" />
+    <Resource Include="img\아쟁2.PNG" />
+    <Resource Include="img\아쟁3.png" />
+    <Resource Include="img\우쿨렐레.PNG" />
+    <Resource Include="img\우쿨렐레1.PNG" />
+    <Resource Include="img\우쿨렐레2.PNG" />
+    <Resource Include="img\우쿨렐레3.png" />
+    <Resource Include="img\음표.png" />
+    <Resource Include="img\자리연습1.jpg" />
+    <Resource Include="img\자리연습2.jpg" />
+    <Resource Include="img\작은북.png" />
+    <Resource Include="img\작은북1.png" />
+    <Resource Include="img\작은북2.PNG" />
+    <Resource Include="img\작은북3.png" />
+    <Resource Include="img\젬베.PNG" />
+    <Resource Include="img\젬베1.PNG" />
+    <Resource Include="img\젬베2.PNG" />
+    <Resource Include="img\젬베3.png" />
+    <Resource Include="img\징.PNG" />
+    <Resource Include="img\징1.PNG" />
+    <Resource Include="img\징2.png" />
+    <Resource Include="img\징3.PNG" />
+    <Resource Include="img\첼로.png" />
+    <Resource Include="img\첼로1.png" />
+    <Resource Include="img\첼로2.png" />
+    <Resource Include="img\첼로3.PNG" />
+    <Resource Include="img\캐스터네츠.png" />
+    <Resource Include="img\캐스터네츠1.png" />
+    <Resource Include="img\캐스터네츠2.png" />
+    <Resource Include="img\캐스터네츠3.PNG" />
+    <Resource Include="img\클라리넷.png" />
+    <Resource Include="img\클라리넷1.png" />
+    <Resource Include="img\클라리넷2.PNG" />
+    <Resource Include="img\클라리넷3.PNG" />
+    <Resource Include="img\탬버린.png" />
+    <Resource Include="img\탬버린1.png" />
+    <Resource Include="img\탬버린2.png" />
+    <Resource Include="img\탬버린3.PNG" />
+    <Resource Include="img\트라이앵글.png" />
+    <Resource Include="img\트라이앵글1.png" />
+    <Resource Include="img\트라이앵글2.png" />
+    <Resource Include="img\트라이앵글3.PNG" />
+    <Resource Include="img\트럼본.PNG" />
+    <Resource Include="img\트럼본1.PNG" />
+    <Resource Include="img\트럼본2.PNG" />
+    <Resource Include="img\트럼본3.PNG" />
+    <Resource Include="img\트럼펫.PNG" />
+    <Resource Include="img\트럼펫1.PNG" />
+    <Resource Include="img\트럼펫2.PNG" />
+    <Resource Include="img\트럼펫3.PNG" />
+    <Resource Include="img\플룻.png" />
+    <Resource Include="img\플룻1.png" />
+    <Resource Include="img\플룻2.PNG" />
+    <Resource Include="img\플룻3.png" />
+    <Resource Include="img\하프.png" />
+    <Resource Include="img\하프1.png" />
+    <Resource Include="img\하프2.PNG" />
+    <Resource Include="img\하프3.PNG" />
+    <Resource Include="img\한곡연습1.jpg" />
+    <Resource Include="img\한곡연습2.jpg" />
+    <Resource Include="img\한줄연습1.jpg" />
+    <Resource Include="img\한줄연습2.jpg" />
+    <Resource Include="img\해금.PNG" />
+    <Resource Include="img\해금1.PNG" />
+    <Resource Include="img\해금2.png" />
+    <Resource Include="img\해금3.PNG" />
+    <Resource Include="img\호른.png" />
+    <Resource Include="img\호른1.png" />
+    <Resource Include="img\호른2.png" />
+    <Resource Include="img\호른3.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

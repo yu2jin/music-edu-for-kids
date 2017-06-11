@@ -1,0 +1,8 @@
+﻿<Window x:Class="Edu_Piano_9012.UI.Sub.Quiz.InsSoundQuiz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="InsSoundQuiz" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>
